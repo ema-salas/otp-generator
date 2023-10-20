@@ -1,0 +1,17 @@
+{
+    "name": "ema-salas/otp-generator",
+    "description": "Generate OTP using a Trait into your Laravel models",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "EmaSalas\\OtpGenerator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Emanuel Giovany Salas Salas",
+            "email": "ema.salas.dev@gmail.com"
+        }
+    ],
+    "require": {}
+}
